@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-liv/static/css/main.3178033b.css",
+    "main.js": "/portfolio-liv/static/js/main.f543442e.js",
+    "static/js/787.3caa48c7.chunk.js": "/portfolio-liv/static/js/787.3caa48c7.chunk.js",
+    "index.html": "/portfolio-liv/index.html",
+    "main.3178033b.css.map": "/portfolio-liv/static/css/main.3178033b.css.map",
+    "main.f543442e.js.map": "/portfolio-liv/static/js/main.f543442e.js.map",
+    "787.3caa48c7.chunk.js.map": "/portfolio-liv/static/js/787.3caa48c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3178033b.css",
+    "static/js/main.f543442e.js"
+  ]
+}
