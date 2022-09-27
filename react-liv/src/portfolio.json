@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Movie Madness",
+        "image": "https://raw.githubusercontent.com/livmeierx/liv-react/main/assets/pics/movie%20madness%20copy.png",
+        "github": "https://github.com/ianzyvith/Group1FrontEndProject",
+        "deploy": "https://ianzyvith.github.io/Group1FrontEndProject/" 
+    },
+    {
+        "id": 2,
+        "name": "DnD Character Creator",
+        "image": "https://raw.githubusercontent.com/livmeierx/liv-react/main/assets/pics/Character%20Creator%20copy.png",
+        "github": "https://github.com/tristristy/dnd-character-creator",
+        "deploy": "https://dry-sands-22029.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "image": "https://raw.githubusercontent.com/livmeierx/liv-react/main/assets/pics/password.png",
+        "github": "https://github.com/livmeierx/password-generator",
+        "deploy": "https://livmeierx.github.io/password-generator/"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/livmeierx/liv-react/main/assets/pics/weather.png",
+        "github": "https://github.com/livmeierx/new-weather-dashboard",
+        "deploy": "https://livmeierx.github.io/new-weather-dashboard/"
+    },
+    {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "image": "https://raw.githubusercontent.com/livmeierx/liv-react/main/assets/pics/scheduler.png",
+        "github": "https://github.com/livmeierx/work-day-scheduler",
+        "deploy": "https://livmeierx.github.io/work-day-scheduler/"
+    },
+    {
+        "id": 6,
+        "name": "Run Buddy",
+        "image": "https://raw.githubusercontent.com/livmeierx/liv-react/main/assets/pics/run-buddy.jpg",
+        "github": "https://github.com/livmeierx/run-buddy",
+        "deploy": "https://livmeierx.github.io/run-buddy/"
+    }
+]
