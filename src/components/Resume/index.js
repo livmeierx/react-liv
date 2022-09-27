@@ -30,11 +30,10 @@ function Resume() {
 
             <div class="justify-content-center mt-5">
                 <div>
-                    <h2 className="top-title">Profeciencies</h2>
+                    <h2 className="top-title">Proficiencies</h2>
                     <ul>
                         <li>
-                        HTML, CSS, Bootstrap, HandleBars, JavaScript, jQuery, React.js, IndexedDB,<br />
-                        Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs
+                        HTML, CSS, Bootstrap, HandleBars, JavaScript, jQuery, React.js, IndexedDB, Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs
                         </li>
                     </ul>
                 </div>
