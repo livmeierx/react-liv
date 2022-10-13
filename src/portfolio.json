@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "MovieSwipe",
-        "image": "https://github.com/livmeierx/react-liv/blob/main/Assets/pics/movie-swipe.png",
+        "image": "https://raw.githubusercontent.com/livmeierx/react-liv/main/Assets/pics/movie-swipe.png",
         "github": "https://github.com/rrvallar/Project-3",
         "deploy": "https://movie-swipe-application.herokuapp.com/" 
     },
